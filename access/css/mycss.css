@@ -1,0 +1,44 @@
+#login:hover{
+    box-shadow: 3px 3px 7px grey;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color: lightcyan;
+}
+#login{
+    transition: 0.5s;
+}
+#register:hover{
+    box-shadow: 3px 3px 7px grey;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color:rgb(255, 239, 242);
+}
+#register{
+    transition: 0.5s;
+}
+#info-user:hover{
+    box-shadow: 3px 3px 7px grey;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color:rgb(235, 255, 235);
+}
+#info-user{
+    transition: 0.5s;
+}
+
+#avatar:hover{
+    box-shadow: 3px 3px 7px grey;
+    transform: scale(1.1);
+    transition: 0.5s;
+    background-color:rgb(251, 203, 255);
+}
+#avatar{
+    transition: 0.5s;
+}
+.color-red{
+    color: red;
+}
+.color-green{
+    color: green;
+    
+}
